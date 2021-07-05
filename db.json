@@ -1,3 +1,14 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "book": {
+        "title": "bible",
+        "id": 0.15216610696734345,
+        "author": "jesus",
+        "category": "Horror",
+        "isbn": "13"
+      },
+      "id": 1
+    }
+  ]
 }
